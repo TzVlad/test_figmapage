@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "license": "ISC",
+  "name": "single_page_personal_web_(community)_(copy)",
+  "scripts": {
+    "start": "parcel ./*.html ",
+    "build": "parcel build ./*.html  --dist-dir ./build"
+  },
+  "version": "1.0.0"
+}
